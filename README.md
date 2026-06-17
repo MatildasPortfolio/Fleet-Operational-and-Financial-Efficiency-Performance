@@ -12,7 +12,7 @@ The Financial Leak: Analysis showed a serious profit drain in Chicago and Memphi
 
 The Delivery Delay Problem:While the fleet's safety record is excellent, on-time delivery dropped drastically to 44.61%. This drop directly damages customer trust and risks contract.
 
-The Action Plan:** To fix these leaks, the business needs to audit and optimize the specific delivery routes that are causing the company to lose money, while putting strict measures in place to completely eliminate that $2.34M idle fuel waste. By addressing these issues, the business can patch up its operational waste and make sure hard-earned revenue actually turns into profit.
+The Action Plan: To fix these leaks, the business needs to audit and optimize the specific delivery routes that are causing the company to lose money, while putting strict measures in place to completely eliminate that $2.34M idle fuel waste. By addressing these issues, the business can patch up its operational waste and make sure hard-earned revenue actually turns into profit.
 
 ## Tools Used
 Power Query:To extract, clean, and combine the 14 separate, scattered CSV files.
@@ -23,7 +23,9 @@ Excel: For initial data assessment and quick validation.
 
 ## What I Learned
 Data Cleansing & Modeling: How to take a large, unorganized pile of raw data from multiple sources and structure it properly for analysis.
+
 Business Intelligence: How to design dashboards with the end-user in mind, making sure the data looks clean, simple, and useful for a business owner.
+
 Root-Cause Analysis: How to connect different operational data points to identify the exact spot where a business is losing money.
 
 ## Preview 
